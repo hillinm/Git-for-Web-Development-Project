@@ -1,6 +1,6 @@
-https://codepen.io/mhillin/pen/KKVoNPE
+https://codepen.io/mhillin/pen/ZEQREje
 
-CSS+HTML Practice - https://codepen.io/mhillin/pen/ZEQREje
+CSS+HTML Practice - 
 
     1. What is Semantic HTML?
     
